@@ -1,10 +1,10 @@
-### cost-o-cars
+# cost-o-cars
 
 This project explores the prediction of second-hand car prices using basic multiple regression techniques.
 
 ## Dataset Description
 
-# The dataset used in this project includes the following features:
+## The dataset used in this project includes the following features:
 
 **year**: The year the car was manufactured.
 **selling_price**: The selling price of the car. (Target variable)
@@ -20,7 +20,7 @@ This project explores the prediction of second-hand car prices using basic multi
 Methodology
 
 This project employs basic multiple regression to build a model that predicts the selling price of a used car based on the features mentioned above. 
-# The steps involved include:
+## The steps involved include:
 
 **Data Loading and Cleaning**: Load the dataset, handle missing values, and perform any necessary data cleaning tasks.
 **Exploratory Data Analysis (EDA)**: Analyze the distribution of features, identify relationships between features and the target variable (selling price), and potentially perform feature engineering.
@@ -29,7 +29,7 @@ This project employs basic multiple regression to build a model that predicts th
 (Optional) Model Improvement: Based on the evaluation results, explore techniques to improve the model's accuracy, such as feature selection or hyperparameter tuning.
 Project Deliverables
 
-# This project will include the following deliverables:
+## This project will include the following deliverables:
 
 Jupyter Notebook (or equivalent) containing the code for data processing, model building, and evaluation.
 Documentation of the model's performance and insights gained from the analysis.
@@ -37,7 +37,7 @@ Documentation of the model's performance and insights gained from the analysis.
 Next Steps
 
 This project serves as a foundation for further exploration of used car price prediction.  
-# Here are some potential next steps:
+## Here are some potential next steps:
 
 Explore more advanced machine learning models, such as random forests or gradient boosting.
 Incorporate additional features like car brand, model, and body type.
